@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmkiyehSozluk.Api.Application
-build_property.ProjectDir = C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\
+build_property.ProjectDir = C:\Users\PC\Desktop\EmkiyehBlog\BlogWebSite_BlazorWebApi\Src\Api\Core\EmkiyehSozluk.Api.Application\

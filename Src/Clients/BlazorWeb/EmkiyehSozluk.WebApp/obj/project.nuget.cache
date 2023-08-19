@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F0RsmpPWPUep9xfKUilVvalhaKvwroQUr8wzs5RJuY+hAe/6wtgmNQo7bYo7j/pE6WdcQJTrWRQP/82aUHrAsA==",
+  "dgSpecHash": "xCgikUlTR1tCtNLg7Xu/kcg+6zGk5grtN7swlziFIkIMqDhcLM8ZolsBdDiN7sKiFVhP6asu72jX3Gt3yhJc3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\EmkiyehSozluk\\Src\\Clients\\BlazorWeb\\EmkiyehSozluk.WebApp\\EmkiyehSozluk.WebApp.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Clients\\BlazorWeb\\EmkiyehSozluk.WebApp\\EmkiyehSozluk.WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.15\\microsoft.aspnetcore.authorization.6.0.15.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.15\\microsoft.aspnetcore.components.6.0.15.nupkg.sha512",

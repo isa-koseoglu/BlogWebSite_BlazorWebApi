@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lYAoCoe0e4rNJXzOZpak2XYLoK44fVFCvCKokEgGsShEFUYzXv5w1zES4Aug9bhfvfJPVOrYXF+VcE85PwCiQQ==",
+  "dgSpecHash": "xLd5xiW9LGMD3gpieWgPqP+/K2NqM3MAR4hKA0p0BjUqFGgD4clFdJSbtMlfEMyxIHKX2kTEiRTAHLZIcaWtxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\EmkiyehSozluk\\Src\\Api\\Infrastructure\\EmkiyehSozluk.Infrastructure.Persistence\\EmkiyehSozluk.Infrastructure.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Api\\Infrastructure\\EmkiyehSozluk.Infrastructure.Persistence\\EmkiyehSozluk.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

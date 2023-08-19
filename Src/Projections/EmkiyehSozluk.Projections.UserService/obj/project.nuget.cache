@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GraTQwj8bYhrWHzkieDeDg93DZ0J6oshDOZDv5vz4Y0ZNgQjxwL6ZQbZNPrl0E5b2ZYmSg09NZJzaqZxKPuWcw==",
+  "dgSpecHash": "LRetcgP22kwmeS3ijlnn/imCFpyTPkW63jSchbVmIbnbuwaN8mI3cB+a+Iw7B/fbmx+RsYKG1SYWtwd9nAoE5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\EmkiyehSozluk\\Src\\Projections\\EmkiyehSozluk.Projections.UserService\\EmkiyehSozluk.Projections.UserService.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Projections\\EmkiyehSozluk.Projections.UserService\\EmkiyehSozluk.Projections.UserService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

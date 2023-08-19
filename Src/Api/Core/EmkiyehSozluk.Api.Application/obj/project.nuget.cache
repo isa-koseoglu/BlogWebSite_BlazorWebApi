@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8lZth0yyTzFHjfCA8pujLmAUppHORGw9H50wU7GzdA78ViFd//b1cWIIioId7e2tOKcKcKOlo6J5UpnCsOLehw==",
+  "dgSpecHash": "oOGpdBCaxKGmiwWhHcuIBG3hA3YIauhO9eyBrS8Rzma5j9hTyPWJCfbsGGK35XoV+Bh+1swOtf609OW6Z1sJAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\EmkiyehSozluk\\Src\\Api\\Core\\EmkiyehSozluk.Api.Application\\EmkiyehSozluk.Api.Application.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Api\\Core\\EmkiyehSozluk.Api.Application\\EmkiyehSozluk.Api.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
