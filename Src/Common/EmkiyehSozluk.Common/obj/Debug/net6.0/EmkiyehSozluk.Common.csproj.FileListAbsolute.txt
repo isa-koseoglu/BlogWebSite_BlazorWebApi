@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\bin\Debug\net6.0\EmkiyehSozluk.Common.deps.json
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\bin\Debug\net6.0\EmkiyehSozluk.Common.dll
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\bin\Debug\net6.0\EmkiyehSozluk.Common.pdb
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\EmkiyehSozluk.Common.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\EmkiyehSozluk.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\EmkiyehSozluk.Common.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\EmkiyehSozluk.Common.AssemblyInfo.cs
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\EmkiyehSozluk.Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\EmkiyehSozluk.Common.dll
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\refint\EmkiyehSozluk.Common.dll
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\EmkiyehSozluk.Common.pdb
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Common\EmkiyehSozluk.Common\obj\Debug\net6.0\ref\EmkiyehSozluk.Common.dll

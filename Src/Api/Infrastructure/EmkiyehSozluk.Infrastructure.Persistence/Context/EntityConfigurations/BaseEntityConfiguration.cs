@@ -1,0 +1,18 @@
+﻿
+
+using EmkiyehSozluk.Api.Domain.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
+namespace EmkiyehSozluk.Infrastructure.Persistence.Context.EntityConfigurations
+{
+    public abstract class BaseEntityConfiguration<T> : IEntityTypeConfiguration<T> where T : BaseEntity
+    {
+        public virtual void Configure(EntityTypeBuilder<T> builder)
+        {
+            builder.HasKey(e => e.Id);
+            builder.Property(e => e.Id).ValueGeneratedOnAdd();
+            builder.Property(e => e.CreateDate).ValueGeneratedOnAdd();
+        }
+    }
+}

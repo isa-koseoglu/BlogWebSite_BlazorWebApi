@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\bin\Debug\net6.0\EmkiyehSozluk.Api.Application.deps.json
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\bin\Debug\net6.0\EmkiyehSozluk.Api.Application.dll
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\bin\Debug\net6.0\EmkiyehSozluk.Api.Application.pdb
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\EmkiyehSozluk.Api.Application.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\EmkiyehSozluk.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\EmkiyehSozluk.Api.Application.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\EmkiyehSozluk.Api.Application.AssemblyInfo.cs
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\EmkiyehSozluk.Api.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\EmkiyehSozluk.Api.Application.dll
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\refint\EmkiyehSozluk.Api.Application.dll
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\EmkiyehSozluk.Api.Application.pdb
+C:\Users\PC\Desktop\EmkiyehBlog\EmkiyehSozluk\Src\Api\Core\EmkiyehSozluk.Api.Application\obj\Debug\net6.0\ref\EmkiyehSozluk.Api.Application.dll
