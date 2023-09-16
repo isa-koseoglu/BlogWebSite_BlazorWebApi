@@ -1,11 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace EmkiyehSozluk.Infrastructure.Persistence.Context.Extensions
 {
@@ -22,6 +18,8 @@ namespace EmkiyehSozluk.Infrastructure.Persistence.Context.Extensions
                     opt.EnableRetryOnFailure();
                 });
             });
+            var seedData = new SendDataVirtual();
+            seedData.SeedAysnc(configuration).GetAwaiter().GetResult();
 
             return services;
         }

@@ -97,6 +97,9 @@
             "projectReferences": {
               "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Api\\Core\\EmkiyehSozluk.Api.Domain\\EmkiyehSozluk.Api.Domain.csproj": {
                 "projectPath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Api\\Core\\EmkiyehSozluk.Api.Domain\\EmkiyehSozluk.Api.Domain.csproj"
+              },
+              "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Common\\EmkiyehSozluk.Common\\EmkiyehSozluk.Common.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Common\\EmkiyehSozluk.Common\\EmkiyehSozluk.Common.csproj"
               }
             }
           }

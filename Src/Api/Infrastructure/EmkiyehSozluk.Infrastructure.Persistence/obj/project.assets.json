@@ -2069,6 +2069,7 @@
     "net6.0": [
       "Bogus >= 34.0.2",
       "EmkiyehSozluk.Api.Domain >= 1.0.0",
+      "EmkiyehSozluk.Common >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.3",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.3",
@@ -2109,6 +2110,9 @@
           "projectReferences": {
             "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Api\\Core\\EmkiyehSozluk.Api.Domain\\EmkiyehSozluk.Api.Domain.csproj": {
               "projectPath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Api\\Core\\EmkiyehSozluk.Api.Domain\\EmkiyehSozluk.Api.Domain.csproj"
+            },
+            "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Common\\EmkiyehSozluk.Common\\EmkiyehSozluk.Common.csproj": {
+              "projectPath": "C:\\Users\\PC\\Desktop\\EmkiyehBlog\\BlogWebSite_BlazorWebApi\\Src\\Common\\EmkiyehSozluk.Common\\EmkiyehSozluk.Common.csproj"
             }
           }
         }

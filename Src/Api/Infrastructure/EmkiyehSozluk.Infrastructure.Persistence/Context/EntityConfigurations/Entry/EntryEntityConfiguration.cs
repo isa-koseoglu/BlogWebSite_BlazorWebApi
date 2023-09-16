@@ -10,7 +10,7 @@ namespace EmkiyehSozluk.Infrastructure.Persistence.Context.EntityConfigurations.
         {
             base.Configure(builder);
             builder.ToTable("entry", EmkiyehSozlukContext.DEFAULT_SCHEMA);
-            builder.HasOne(i=>i.CreateBy).WithMany(i => i.Entries).HasForeignKey(i => i.CreateBy);
+            builder.HasOne(i=>i.CreatedBy).WithMany(i => i.Entries).HasForeignKey(i => i.CreateById);
         }
     }
 }

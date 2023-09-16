@@ -1,0 +1,17 @@
+EmkiyehSozlukBlog
+
+select *from [user]
+
+select *from [entry]
+
+select *from entrycomment
+
+select *from emailconfirmaiton
+
+
+
+select *from entrycommentfavorite
+
+select *from entrycommentvote
+
+select *from entryvote

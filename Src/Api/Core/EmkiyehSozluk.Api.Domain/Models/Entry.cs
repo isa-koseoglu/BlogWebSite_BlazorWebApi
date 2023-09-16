@@ -6,7 +6,7 @@ namespace EmkiyehSozluk.Api.Domain.Models
         public string Subject { get; set; }
         public string Content { get; set; }
         public Guid CreateById { get; set; }
-        public virtual  User CreateBy { get; set; }
+        public virtual  User CreatedBy { get; set; }
         public virtual ICollection<EntryComment> EntryComments { get; set; }
         public virtual ICollection<EntryVote> EntryVotes { get; set; }
         public virtual ICollection<EntryFavorite> EntryFavorites { get; set; }

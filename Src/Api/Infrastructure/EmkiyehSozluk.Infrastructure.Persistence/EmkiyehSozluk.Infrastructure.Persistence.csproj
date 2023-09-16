@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\EmkiyehSozluk.Common\EmkiyehSozluk.Common.csproj" />
     <ProjectReference Include="..\..\Core\EmkiyehSozluk.Api.Domain\EmkiyehSozluk.Api.Domain.csproj" />
   </ItemGroup>
 
