@@ -9,6 +9,10 @@ namespace EmkiyehSozluk.Infrastructure.Persistence.Context
     public class EmkiyehSozlukContext:DbContext
     {
         public const string DEFAULT_SCHEMA = "dbo";
+        public EmkiyehSozlukContext()
+        {
+            
+        }
         public EmkiyehSozlukContext(DbContextOptions options) : base(options)
         {
 
@@ -22,6 +26,19 @@ namespace EmkiyehSozluk.Infrastructure.Persistence.Context
         public DbSet<EntryCommentFavorite> EntryCommentFavorites { get; set; }
         public DbSet<EmailConfirmation> EmailConfirmations { get; set; }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                //var conStr = "Server=DESKTOP-NF9CO7S;Database=EmkiyehSozlukDB;User Id=sa;Password=1;MultipleActiveResultSets=true;";
+                var conStr = "Data Source=DESKTOP-NF9CO7S;Initial Catalog=EmkiyehSozlukDB;User ID=sa;Password=1;";
+                optionsBuilder.UseSqlServer(conStr, opt =>
+                {
+                    opt.EnableRetryOnFailure();
+                });
+            }
+            //base.OnConfiguring(optionsBuilder);
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //base.OnModelCreating(modelBuilder);

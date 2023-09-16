@@ -13,7 +13,7 @@ namespace EmkiyehSozluk.Infrastructure.Persistence.Context.EntityConfigurations.
 
             builder.ToTable("entrycomment", EmkiyehSozlukContext.DEFAULT_SCHEMA);
 
-            builder.HasOne(i => i.CreatedBy).WithMany(i => i.EntryComments).HasForeignKey(i => i.CreateById);
+            builder.HasOne(i => i.CreatedBy).WithMany(i => i.EntryComments).HasForeignKey(i => i.CreateById).OnDelete(DeleteBehavior.Restrict);
             builder.HasOne(i => i.Entry).WithMany(i => i.EntryComments).HasForeignKey(i => i.EntryId);
 
         }
